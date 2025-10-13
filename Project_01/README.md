@@ -16,7 +16,7 @@ Use prompt engineering to generate Python code that performs dataset exploration
 
 **Prompt Used:**  
 <p align="center">
-  <img src="q1_prompt_pic.png" alt="HW1 Q1 Prompt" width="300">
+  <img src="q1_prompt_pic.png" alt="HW1 Q1 Prompt" width="700">
 </p>
 
 **Generated files:**
@@ -32,7 +32,7 @@ Use the OpenAI API to generate Python code that identifies missing values and pe
 
 **Prompt Used:**  
 <p align="center">
-  <img src="q2_prompt_pic.png" alt="HW1 Q1 Prompt" width="300">
+  <img src="q2_prompt_pic.png" alt="HW1 Q1 Prompt" width="700">
 </p>
 
 **Generated files:**
