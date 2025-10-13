@@ -1,5 +1,10 @@
 # Project 01: Data Exploration and Prompt Engineering
 
+**Author:** Saif Alomari  
+Part of the *Machine Learning Design and Test Automation* coursework.
+
+---
+
 This project focuses on exploring two datasets and using prompt engineering to generate Python code with the **OpenAI API** for automated data analysis and preprocessing.
 
 ## Overview
@@ -46,8 +51,3 @@ Use the OpenAI API to generate Python code that identifies missing values and pe
 - **Python**
 - **Pandas**, **NumPy**, **scikit-learn**
 - **OpenAI API (GPT-4o-mini)**
-
----
-
-## Author
-Developed by **Saif Alomari** as part of the *Machine Learning Design and Test Automation* coursework.
