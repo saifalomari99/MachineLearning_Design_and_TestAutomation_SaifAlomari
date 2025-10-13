@@ -15,8 +15,8 @@ The goal of this project was to use Large Language Models (LLMs) to:
 Use prompt engineering to generate Python code that performs dataset exploration.
 
 **Prompt Used:**  
-<p align="center">
-  <img src="q1_prompt_pic.png" alt="HW1 Q1 Prompt" width="700">
+<p align="left">
+  <img src="q1_prompt_pic.png" alt="HW1 Q1 Prompt" width="1000">
 </p>
 
 **Generated files:**
@@ -31,8 +31,8 @@ Use prompt engineering to generate Python code that performs dataset exploration
 Use the OpenAI API to generate Python code that identifies missing values and performs KNN imputation.
 
 **Prompt Used:**  
-<p align="center">
-  <img src="q2_prompt_pic.png" alt="HW1 Q1 Prompt" width="700">
+<p align="left">
+  <img src="q2_prompt_pic.png" alt="HW1 Q1 Prompt" width="1000">
 </p>
 
 **Generated files:**
