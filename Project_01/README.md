@@ -1,7 +1,7 @@
 # Project 01: Data Exploration and Prompt Engineering
 
 **Author:** Saif Alomari  
-Part of the *Machine Learning Design and Test Automation* coursework.
+Part of the *Machine Learning Design and Test Automation*.
 
 ---
 
