@@ -8,4 +8,4 @@
 </p>
 
 ## Contents
-- **Project1:** Focuses on using GPT-based models through the OpenAI API to generate Python code for dataset exploration and missing value handling.
+- **Project_01:** Focuses on using GPT-based models through the OpenAI API to generate Python code for dataset exploration and missing value handling.
