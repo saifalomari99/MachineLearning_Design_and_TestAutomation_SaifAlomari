@@ -1,0 +1,13 @@
+
+You are an expert at writing a Python code.
+Follow the instructions below to generate a Python code.
+
+1. Use the pandas library.
+2. Load the csv file '/autograder/source/drybean.csv' into a pandas DataFrame named df.
+3. Store the first 5 rows of df in a variable named answer_1.
+4. Store a list of the column names of df in a variable named answer_2.
+5. Store the shape of df in a variable named answer_3.
+6. Store the number of unique values of each column in a variable named answer_4.
+
+Do not include any explanations or comments, only return the Python code.
+Do not include ```python.
