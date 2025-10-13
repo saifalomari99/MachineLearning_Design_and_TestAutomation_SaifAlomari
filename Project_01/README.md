@@ -14,12 +14,10 @@ The goal of this project was to use Large Language Models (LLMs) to:
 **Objective:**  
 Use prompt engineering to generate Python code that performs dataset exploration.
 
-**Tasks performed:**
-- Load the `drybean.csv` dataset into a pandas DataFrame.
-- Retrieve the first five rows.
-- List all column names.
-- Display the dataset shape (rows and columns).
-- Count the number of unique values in each column.
+**Prompt Used:**  
+<p align="center">
+  <img src="q1_prompt_pic.png" alt="HW1 Q1 Prompt" width="300">
+</p>
 
 **Generated files:**
 - `hw1_q1_prompt.txt`: The text prompt used to generate the code.  
@@ -32,12 +30,10 @@ Use prompt engineering to generate Python code that performs dataset exploration
 **Objective:**  
 Use the OpenAI API to generate Python code that identifies missing values and performs KNN imputation.
 
-**Tasks performed:**
-- Load the `housing.csv` dataset into a pandas DataFrame.
-- Detect columns with missing values.
-- Compute the median for the column with missing data.
-- Perform **KNN imputation (k = 10)** only on numeric columns.
-- Extract and print the imputed value at row index 291.
+**Prompt Used:**  
+<p align="center">
+  <img src="q2_prompt_pic.png" alt="HW1 Q1 Prompt" width="300">
+</p>
 
 **Generated files:**
 - `hw1_q2_prompt.txt`: The prompt used to generate the solution code.  
