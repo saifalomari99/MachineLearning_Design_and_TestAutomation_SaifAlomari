@@ -9,3 +9,7 @@
 
 ## Contents
 - **Project_01:** Focuses on using GPT-based models through the OpenAI API to generate Python code for dataset exploration and missing value handling.
+- **Project_02:** Wafer Map Failure Pattern Classification: This project builds a machine learning pipeline to classify semiconductor wafer map failure patterns from the WM-811K dataset. Starting from raw wafer map images, the pipeline performs feature engineering by extracting 10 geometric descriptors from each wafer's salient failure region, then trains and evaluates a Decision Tree and a Support Vector Classifier to identify five failure types: Center, Donut, Edge-Loc, Near-full, and Scratch.
+
+<img src="Project_02/wafermaps_by_type_images/wafermaps_for_each_failure_type.png" width="700"/>
+
